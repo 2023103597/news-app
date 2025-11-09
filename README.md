@@ -1,10 +1,11 @@
 # news-app
 Setup
 
-    Clone the repo git clone https://github.com/beankook/sdc-news-report
-    Install dependencies npm install
-    Add your API key in App.js
-    Run the app npm start Features
+    1.Clone the repo git clone 
+    https://github.com/beankook/sdc-news-report
+    2.Install dependencies npm install
+    3.Add your API key in App.js
+    4.Run the app npm start Features
 
     Category wise news
     Search by keyword
