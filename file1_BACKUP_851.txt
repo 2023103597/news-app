@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Develop version
+=======
+conflict version
+>>>>>>> conflict

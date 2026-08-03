@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-Develop version
-=======
->>>>>>> 
+hello  file1
