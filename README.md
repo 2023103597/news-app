@@ -6,10 +6,6 @@ Setup
     2.Install dependencies npm install
     3.Add your API key in App.js
     4.Run the app npm start Features
+    5.Run the news-app 
 
-    Category wise news
-    Search by keyword
-    Responsive design
-    Light and dark mode
-    Bookmarking
-    Axios API integration
+    Jenkins trigger test
