@@ -9,3 +9,4 @@ Setup
     5.Run the news-app 
 
     Jenkins trigger test
+    hello all
